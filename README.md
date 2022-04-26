@@ -24,8 +24,8 @@ Materiales
 1 resistencia de 4.7k
 1 laser color verde
 
-
-
+video de configurar lcd
+https://www.youtube.com/watch?v=CdMoqru9ySw
 
 www.electromark.org
 
