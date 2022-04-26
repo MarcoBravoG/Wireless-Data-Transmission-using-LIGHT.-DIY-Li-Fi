@@ -13,6 +13,18 @@ https://create.arduino.cc/projecthub/saad-saif/wireless-data-transmission-using-
 lcd
 https://naylampmechatronics.com/blog/35_tutorial-lcd-con-i2c-controla-un-lcd-con-solo-dos-pines.html
 
+Materiales
+
+2 arduinos 1
+1 lcd 16x2
+1 ldr
+1 pot de 2k colcar en la 1.3kohm
+2 protoboar
+1 transistor 2n3904
+1 resistencia de 4.7k
+1 laser color verde
+
+
 
 
 www.electromark.org
