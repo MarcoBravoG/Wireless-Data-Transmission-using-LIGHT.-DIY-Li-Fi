@@ -6,8 +6,12 @@ I wanted to transfer data between two arduinos wirelessly using an unconventiona
 
 All you need to do to replicate this project is to setup the circuit as shown in the figure below:
 
+circuit
 
 https://create.arduino.cc/projecthub/saad-saif/wireless-data-transmission-using-light-diy-li-fi-69eb0a
+
+lcd
+https://naylampmechatronics.com/blog/35_tutorial-lcd-con-i2c-controla-un-lcd-con-solo-dos-pines.html
 
 
 
