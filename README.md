@@ -7,6 +7,8 @@ I wanted to transfer data between two arduinos wirelessly using an unconventiona
 All you need to do to replicate this project is to setup the circuit as shown in the figure below:
 
 
+https://create.arduino.cc/projecthub/saad-saif/wireless-data-transmission-using-light-diy-li-fi-69eb0a
+
 
 
 www.electromark.org
